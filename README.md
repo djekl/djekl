@@ -4,7 +4,7 @@
 
 Day-to-day I work with PHP, JavaScript, and related technologies. In my spare time, I’m learning [Python][8], [React][9], and [React Native][10].
 
-I also enjoy helping over developers. Through helping other developers.
+I also enjoy training tomorrows developers with all things PHP, JavaScript, Laravel, and web development in general.
 
 I currently work for [Molekula][5] as the lead developer, and <abbr title="Chief Technical Officer">CTO</abbr>. Outside of my day job, I operate a business called [FriendlyDev][6], where I build and operate several client sites, as well as my own products. I am probably best known for developing the XboxAPI service, this is now known as [XAPI][7] for legal reasons.
 
